@@ -1,4 +1,7 @@
-### Lorem Ipsum Bullets
+---
+---
+
+@import "{{ site.theme }}";
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - Sed sollicitudin semper ornare.
