@@ -5,3 +5,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+theme: jekyll-theme-minimal
+title: values
+logo: /assets/img/logo.png
+description: values page.
