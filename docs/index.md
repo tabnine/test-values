@@ -1,8 +1,3 @@
----
----
-
-@import "{{ site.theme }}";
-
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - Sed sollicitudin semper ornare.
 - Phasellus ultrices, leo a posuere congue, velit quam tempus felis, at posuere
